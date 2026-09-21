@@ -221,7 +221,7 @@
     <string name="booster_permanent_upgrades">ترقيات دائمة</string>
     <string name="booster_owned">owned: %1$s</string>
     <!-- Value shown for a booster the player has not bought any level of. -->
-    <string name="none">None</string>
+    <string name="none">لا يوجد</string>
     <string name="booster_ad_xp_title">مضاعف نقاط الخبرة بالإعلانات</string>
     <string name="booster_ad_xp_desc">شاهد فيديو للحصول على تعزيز مؤقت لنقاط الخبره!</string>
     <string name="booster_stacks_base_xp">تُضاف الى نقاط الخبرة الاساسيه</string>
@@ -266,7 +266,7 @@
     <string name="voidstone_gift_send">ارسال هدية فويدستون</string>
     <string name="skin_bought">تم شراء الجلد</string>
     <string name="booster_base_xp_bought">ترقية الخبرة الأساسية</string>
-    <string name="transaction_achievement_reward">Achievement Reward</string>
+    <string name="transaction_achievement_reward">مكافأة الإنجاز</string>
     <string name="booster_autosplit_bought">ترقية الانقسام التلقائي</string>
     <string name="booster_autoshoot_bought">ترقية الإطلاق التلقائي</string>
     <string name="booster_spawn_size_bought">ترقية حجم الظهور</string>
@@ -294,7 +294,7 @@
 
     <!-- Ads -->
     <string name="ad_not_loaded">لم يتم تحميل الإعلان بعد</string>
-    <string name="ad_no_fill">No fill: no ads available for you at the moment. Please try again later.</string>
+    <string name="ad_no_fill"> لا يوجد محتوى: لا تتوفر إعلانات لك في الوقت الحالي. يُرجى المحاولة مرة أخرى لاحقًا.</string>
     <string name="ad_show_failed">فشل عرض الإعلان</string>
     <string name="ad_load_failed">فشل تحميل الإعلان</string>
     <string name="ad_rate_limited">لقد شاهدت الكثير من الإعلانات مؤخرا. يرجى المحاولة مرة اخرى خلال %s.</string>
@@ -346,8 +346,8 @@
      <string name="season_pass_history_task_season">مهمة الموسم: %1$s</string>
      <string name="season_pass_history_season_page">الموسم %1$d</string>
      <string name="season_pass_history_revoked_stage_paid">Stage %1$d (Paid) — revoked</string>
-     <string name="season_pass_history_revoked_voidstones">Voidstones removed</string>
-     <string name="season_pass_history_revoked_unlock">Unlock removed</string>
+     <string name="season_pass_history_revoked_voidstones"> تمت إزالة أحجار الفراغ</string>
+     <string name="season_pass_history_revoked_unlock"> تمت إزالة الفتح</string>
      <string name="season_pass_history_revoked_trigger_refund">تم استرداد مبلغ التذكرة الذهبية</string>
      <string name="season_pass_history_revoked_trigger_dispute">Season Pass Gold disputed</string>
      <string name="season_pass_history_revoked_trigger_chargeback">Season Pass Gold chargeback</string>
@@ -369,7 +369,7 @@
      <string name="season_task_voidstone_bronze_eaten">اجمع الفويدستون البرونزي</string>
      <string name="season_task_voidstone_silver_eaten">اجمع الفويدستون الفضي</string>
      <string name="season_task_voidstone_gold_eaten">اجمع الفويدستون الذهبي</string>
-     <string name="season_task_voidstone_rainbow_eaten">Collect rainbow voidstones</string>
+     <string name="season_task_voidstone_rainbow_eaten"> اجمع أحجار الفراغ الملونة قوس قزح</string>
      <string name="season_task_food_and_voidstone_eaten">اجمع الطعام ثم الفويدستون</string>
      <string name="season_task_bots_eaten">التهِم البوتات</string>
      <string name="season_task_players_eaten">اِلتهِم اللاعبين</string>
@@ -397,15 +397,15 @@
     <string name="login">تسجيل دخول</string>
     <string name="login_google">تسجيل الدخول باستخدام جوجل</string>
     <string name="login_apple">تسجيل الدخول باستخدام آبل</string>
-    <string name="link_google">Link Google Sign-In</string>
-    <string name="link_apple">Link Apple Sign-In</string>
-    <string name="link_success">Sign-in method linked!</string>
-    <string name="link_already_linked">This sign-in method is already linked to your account.</string>
+    <string name="link_google"> ربط تسجيل الدخول بحساب Google</string>
+    <string name="link_apple">ربط تسجيل الدخول بحساب Apple</string>
+    <string name="link_success"> تم ربط طريقة تسجيل الدخول!</string>
+    <string name="link_already_linked"> طريقة تسجيل الدخول هذه مرتبطة بالفعل بحسابك.</string>
     <string name="link_identity_taken">This account is already linked to another Merg account. Sign in with that account instead.</string>
-    <string name="link_email_taken">The email on this sign-in belongs to another Merg account.</string>
-    <string name="link_stepup_failed">Verification failed. Please try again.</string>
-    <string name="link_cancelled">Linking was cancelled.</string>
-    <string name="link_failed">Could not link sign-in method. Please try again.</string>
+    <string name="link_email_taken"> البريد الإلكتروني المرتبط بتسجيل الدخول هذا يعود إلى حساب MERG آخر.</string>
+    <string name="link_stepup_failed"> فشل التحقق. يُرجى المحاولة مرة أخرى.</string>
+    <string name="link_cancelled">تم إلغاء عملية الربط.</string>
+    <string name="link_failed">تعذّر ربط طريقة تسجيل الدخول. يُرجى المحاولة مرة أخرى.</string>
     <string name="logout">تسجيل خروج</string>
     <string name="logout_all_devices">تسجيل خروج من جميع الأجهزة</string>
     <string name="change_name">تغيير الاسم</string>
@@ -693,8 +693,8 @@
     <string name="stat_boosts">التعزيزات:</string>
     <string name="stat_teleports">الإنتقالات:</string>
     <string name="stat_rewarded_ads_watched">مكافئات الإعلانات:</string>
-    <string name="stat_items_used">Items Used:</string>
-    <string name="stat_voidstones_gifted">Gifted:</string>
+    <string name="stat_items_used"> العناصر المستخدمة:</string>
+    <string name="stat_voidstones_gifted">تم الإهداء:</string>
     <string name="stat_opponents_exploded">Opponents Exploded:</string>
 
     <!-- Mail !-->
@@ -1064,7 +1064,7 @@
     <string name="server_not_running">السيرفر لا يعمل</string>
     <string name="name_change_reconnect_notice">لكي يتم تفعيل تغيير الاسم، ستتم إعادة اتصالك بالسيرفر.</string>
     <string name="play">العب</string>
-    <string name="id">ID:</string>
+    <string name="id">رقم الهوية:</string>
     <string name="sort_id_desc">ID ↓</string>
     <string name="sort_id_asc">ID ↑</string>
     <string name="sort_xp_desc">XP ↓</string>
@@ -1095,9 +1095,9 @@
     <string name="empty">فارغ</string>
     <string name="online">مُتصل</string>
     <string name="offline">غير مُتصل</string>
-    <string name="status_dnd">Do Not Disturb</string>
-    <string name="status_invisible">Invisible</string>
-    <string name="status_picker_label">Status</string>
+    <string name="status_dnd"> عدم الإزعاج</string>
+    <string name="status_invisible">مخفي</string>
+    <string name="status_picker_label">الحالة</string>
     <string name="name">اسم</string>
     <string name="owner">المالك</string>
     <string name="kick">طرد</string>
@@ -1147,7 +1147,7 @@
     <string name="error">خطأ</string>
     <string name="error_with_string">خطأ: %s</string>
     <string name="copied_to_clipboard">تم نسخها إلى الحافظة.</string>
-    <string name="invalid_request">Request malformed or missing required fields</string>
+    <string name="invalid_request"> الطلب غير صالح أو يفتقد إلى حقول مطلوبة.</string>
     <string name="invalid_token">جلسة غير صالحة أو منتهية الصلاحية. يرجى تسجيل الدخول مرة أخرى.</string>
     <string name="rate_limited">يرجى الانتظار %d ثانية والمحاولة مرة أخرى.</string>
     <string name="nonexistent_user">لم يتم العثور على المستخدم</string>
@@ -1178,7 +1178,7 @@
     <string name="invalid_action">غير صالح</string>
     <string name="invalid_value">قيمة غير صالحة</string>
     <string name="admin_cannot_act_self">لا يمكن تنفيذ هذا الإجراء على نفسك</string>
-    <string name="admin_cannot_act_on_staff">Cannot perform this action on staff members</string>
+    <string name="admin_cannot_act_on_staff"> لا يمكن استخدام هذا الإجراء على أعضاء طاقم الإدارة.</string>
     <string name="code_not_found">رمز غير صالح</string>
     <string name="code_expired">انتهت صلاحية الرمز</string>
     <string name="code_already_redeemed">تم استخدام الرمز مسبقًا!</string>
@@ -1194,12 +1194,12 @@
     <string name="support_intro">فيما يلي جميع طرق التواصل مع الدعم..</string>
     <string name="copy">نسخ</string>
     <string name="open_link">فتح</string>
-    <string name="whatsapp_note">Chat only, no calls or SMS</string>
-    <string name="recommended">recommended</string>
-    <string name="support_response_time">Answered within</string>
+    <string name="whatsapp_note"> دردشة فقط، دون مكالمات أو رسائل نصية</string>
+    <string name="recommended">موصى به</string>
+    <string name="support_response_time"> الإجابة خلال</string>
     <string name="support_mail">البريد الالكتروني</string>
-    <string name="support_discord_channel">ticket support</string>
-    <string name="additional_settings">ADDITIONAL SETTINGS</string>
+    <string name="support_discord_channel">تذكرة الدعم</string>
+    <string name="additional_settings"> إعدادات إضافية</string>
     <string name="desc_quick_merge">Removes the merge cooldown when splitting.</string>
     <string name="desc_force_split_on_blob_size">Any blob that reaches the set size splits in half automatically, from its middle and with no launch momentum. Once a blob is already split into the maximum number of pieces, each piece is capped at that size instead. Not available in Adventure.</string>
     <string name="desc_relax">All players (except bots) cannot fully kill each other, leaving at least 1 blob alive, similarly to Adventure mode.</string>
@@ -1217,9 +1217,9 @@
     <string name="preferences_saved">Preferences saved to %1$s</string>
     <string name="preferences_loaded">Preferences loaded!</string>
     <string name="preferences_transfer_failed">Preferences transfer failed: %1$s</string>
-    <string name="invalid_file">Invalid file</string>
+    <string name="invalid_file">الملف غير صالح</string>
     <string name="unlocked">تم الفتح:</string>
-    <string name="unlocked_competitive">Unlocked Competitive</string>
+    <string name="unlocked_competitive"> تم فتح الوضع التنافسي</string>
     <!-- Achievements -->
     <string name="achievements_ap">%1$s/%2$s (%3$s%%)</string>
     <string name="achievement_tier_bronze">البرونزي</string>
@@ -1270,7 +1270,7 @@
     <string name="ach_title_conqueror">منتصر</string>
     <string name="ach_desc_adventure_stage">Clear Adventure Stage %1$s.</string>
     <string name="ach_title_scorer">Scorer %1$s</string>
-    <string name="ach_desc_soccer_goals_one">Score 1 Goal in Soccer mode.</string>
+    <string name="ach_desc_soccer_goals_one"> سجّل هدفًا واحدًا في وضع كرة القدم.</string>
     <string name="ach_desc_soccer_goals">Score %1$s Goals in Soccer mode.</string>
     <string name="ach_title_size_beginner">مبتدئ</string>
     <string name="ach_title_size_millionaire">مليونير</string>
@@ -1286,7 +1286,7 @@
     <string name="ach_title_wizard">Wizard %1$s</string>
     <string name="ach_desc_items_used">Use %1$s Items.</string>
     <string name="ach_title_infinite_power">طاقه لا نهائية!</string>
-    <string name="ach_desc_max_item_duration">Have an item effect active for the maximum allowed duration of 5 minutes.</string>
+    <string name="ach_desc_max_item_duration"> فعّل تأثير عنصر لمدة 5 دقائق، وهي أقصى مدة مسموح بها.</string>
     <string name="ach_title_mini">صغير</string>
     <string name="ach_title_tiny">صغير جدًا</string>
     <string name="ach_title_microscopic">مجهري</string>
@@ -1320,20 +1320,20 @@
     <string name="ach_title_master_donator">كبير المتبرعين</string>
     <string name="ach_title_philanthropist">فاعل خير</string>
     <string name="ach_desc_gift_voidstones">Gift a total of %1$s Voidstones.</string>
-    <string name="ach_title_map_control">Map Control</string>
-    <string name="ach_desc_map_control">Cover the entire playing field.</string>
+    <string name="ach_title_map_control"> السيطرة على الخريطة</string>
+    <string name="ach_desc_map_control">غطِّ ساحة اللعب بأكملها.</string>
     <string name="ach_title_hole_attack">Hole Attack %1$s</string>
     <string name="ach_desc_hole_attack">Explode %1$s players by shooting a hole at them.</string>
-    <string name="ach_title_bully">Bully</string>
-    <string name="ach_desc_bully">Keep a small player trapped in a corner for over 10 seconds.</string>
-    <string name="ach_title_viewer">Viewer</string>
-    <string name="ach_title_film_fan">Film Fan</string>
-    <string name="ach_title_binge_watcher">Binge Watcher</string>
-    <string name="ach_title_movie_star">Movie Star</string>
-    <string name="ach_title_cinephile">Cinephile</string>
+    <string name="ach_title_bully">متنمّر</string>
+    <string name="ach_desc_bully"> أبقِ لاعبًا صغيرًا محاصرًا في زاوية لأكثر من 10 ثوانٍ.</string>
+    <string name="ach_title_viewer">مشاهد</string>
+    <string name="ach_title_film_fan">محب الأفلام</string>
+    <string name="ach_title_binge_watcher"> مشاهد متواصل</string>
+    <string name="ach_title_movie_star"> نجم سينمائي</string>
+    <string name="ach_title_cinephile">محب الأفلام</string>
     <string name="ach_desc_rewarded_ads">Watch %1$s rewarded ads.</string>
     <string name="net_switched_to_websocket">!! UDP blocked, switched to Websocket. Expect higher latency. Check the firewall rules of your network, ensuring UDP port 9807 isn\'t blocked. If you are playing on web, you can ignore this message.</string>
-    <string name="net_switched_back_to_udp">Switched back to UDP.</string>
-    <string name="options_experimental">Experimental</string>
-    <string name="options_force_websocket">Force gameplay over Websocket</string>
+    <string name="net_switched_back_to_udp">تمت العودة إلى UDP.</string>
+    <string name="options_experimental">تجريبي</string>
+    <string name="options_force_websocket">فرض تشغيل اللعبة عبر WebSocket</string>
 </resources>
